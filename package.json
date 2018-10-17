@@ -1,0 +1,20 @@
+{
+  "name": "api-practice",
+  "version": "1.0.0",
+  "description": "node.js + Expressの素振り",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "prettier": "^1.14.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-prettier": "^3.0.0"
+  }
+}
