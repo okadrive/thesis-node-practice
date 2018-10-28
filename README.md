@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # node.js + Expressの素振り
 
 素振りしていきます．
@@ -8,6 +7,3 @@
 ```shell
 $ node app/app.js
 ```
-=======
-# thesis-node-practice
->>>>>>> origin/master
