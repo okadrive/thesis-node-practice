@@ -3,7 +3,7 @@
 素振りしていきます．
 ## mysqlの設定
 ### ユーザ
-- ユーザ名: root
+- ユーザ名: root
 - パスワード: root
 - データベース: NodeTest 
 ### テーブル
@@ -12,5 +12,5 @@
 ## 実行方法
 
 ```shell
-$ nodemon app/app.js
+$ nodemon app/app.js
 ```
