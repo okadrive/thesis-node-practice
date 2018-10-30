@@ -18,4 +18,4 @@ $ nodemon app/app.js
 2. テキストボックスに適当な名前を入れてaddボタンをクリック
 3. 追加した名前が表示される
 4. localhost: 3000/api/v1/listにアクセスしてaddしたデータがあれば成功
-- <font color=#ff0000>deleteボタンは今のところ使えません</font>
+- <font color=#ff0000>deleteボタンは今のところ使えません</font>
